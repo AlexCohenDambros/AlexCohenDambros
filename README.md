@@ -1,6 +1,6 @@
 ### Hello There 👋
 
-🎓 Ciência da Computação - PUCPR.
+🎓 Cientista da Computação - PUCPR.
 #
 
 <div>
